@@ -28,7 +28,7 @@ SERVICE_NAME="cicd-gha-wif-service-${SCRIPT_VERSION}"
 WIF_POOL_NAME="gha-pool-wif-${SCRIPT_VERSION}"
 WIF_PROVIDER_NAME="gha-wif-provider-${SCRIPT_VERSION}"
 ORG="ihamzehald"
-REPO="cicd-gha-wif-oidc"
+REPO="cicd-gha-wif-oidc-demo"
 # =====================================
 
 echo "Activating project..."
