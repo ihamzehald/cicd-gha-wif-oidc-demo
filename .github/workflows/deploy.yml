@@ -1,4 +1,4 @@
-name: Deploy cicd-gha-sa to Cloud Run
+name: Deploy cicd-gha-wif Demo to Cloud Run
 
 on:
   push:

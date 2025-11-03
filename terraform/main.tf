@@ -1,4 +1,4 @@
-resource "google_cloud_run_service" "cicd-gha-sa-cr-app" {
+resource "google_cloud_run_service" "cicd-gha-wif-cr-app" {
   name     = var.service_name
   location = var.region
 

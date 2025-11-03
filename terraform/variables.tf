@@ -5,12 +5,12 @@ variable "region" {
 
 variable "service_name" {
   type    = string
-  default = "cicd-gha-sa-service"
+  default = "cicd-gha-wif-images-v1"
 }
 
 variable "artifact_repo" {
   type    = string
-  default = "cicd-gha-sa-images"
+  default = "cicd-gha-wif-images-v1"
 }
 
 variable "image_uri" {
