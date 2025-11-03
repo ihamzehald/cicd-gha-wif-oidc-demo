@@ -29,4 +29,4 @@ It will do the following:
  P.S. This script can be terraformed if needed (in case of full automation and scalability) but as it is a bootstrap one time script this is a common practice as per GCP guidelines and considering TF needs these configs in place as prerequisites before it can run.
 
 **Step #3:** Finally follow the instructions displayed on your terminal after it completes execution to configure your repository with the GCP project.  
-Once you’ve configured the repo environment variables as described, commit and push to `master` branch to verify that the CI/CD pipeline builds successfully.
+Once you’ve configured the repo environment variables as described, commit and push to `main` branch to verify that the CI/CD pipeline builds successfully.
